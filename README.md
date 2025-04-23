@@ -3,6 +3,10 @@
 **Frontend Developer, 6+ years experience**  
 _GMT+3_
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-glebedenko-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/glebedenko)
+[![Email](https://img.shields.io/badge/Email-glebedenko.work@gmail.com-red?style=flat-square&logo=gmail)](mailto:glebedenko.work@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@glebedenko-blue?style=flat-square&logo=telegram)](https://t.me/glebedenko)
+
 ---
 
 ## 🦁 About
