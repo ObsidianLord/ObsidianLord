@@ -11,7 +11,7 @@ _GMT+3_
 
 ## 🦁 About
 
-Frontend Developer with **6+ years** of experience building web solutions for teams of 2 to 40 (remote/on-site). Frontend **Team Lead** skilled in guiding projects from ideation to deployment. **Proficient in React, Vue, and WebAssembly (WASM)**: optimized web performance by porting C++ libraries to WASM.
+Frontend Developer with **6+ years** of experience building web solutions for teams of 2 to 35 (remote/on-site). Frontend **Team Lead** skilled in guiding projects from ideation to deployment. **Proficient in React, Vue, and WebAssembly (WASM)**: optimized web performance by porting C++ libraries to WASM.
 
 Experienced in **full-cycle development** — gathering requirements, system design, DevOps, CI/CD, and SEO-driven optimization. Proven expertise in modernizing legacy codebases and engineering Telegram bots at scale. Expanded expertise into **mobile/backend development** for startups and delivered products for the **game dev industry**.
 
